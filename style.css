@@ -509,7 +509,7 @@
         .hero {
             background:
                 linear-gradient(115deg, rgba(11, 37, 69, 0.568), rgba(11, 37, 69, 0.616)),
-                url(/Mbtionsolar/ASSETS/IMG/image-hero.jpeg);
+                url(ASSETS/IMG/image-hero.jpeg);
             background-size: cover;
             background-position: center;
         }
